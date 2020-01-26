@@ -45,7 +45,7 @@ Tested in unity 2019.2 and android 9
         
 	    alertDiaolog.onFailLitener(() => { Toast.Show("calling a functon from on fail", Toast.LENGTH_LONG); });
 	    alertDiaolog.onSucessLitener(() => { Toast.Show("on sucess from event listener", Toast.LENGTH_LONG); });  
-    //success buton and fail button are optional 
+    //success and fail buttons are optional
 	    alertDiaolog.Show("YOUR_TITLE", "YOUR_MESSAGE", "success button label","fail button label");
 
 
