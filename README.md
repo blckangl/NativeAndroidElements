@@ -1,7 +1,7 @@
 ﻿
 # Native Android Elements For Unity + Unity 3D example
 
-A [Unity 3D][unity] class helpers to use some android native elements
+A [Unity 3D][unity] classes that helps unity developers using some native android elements (Toats,Alert,Calendar,TextIntent)
 
 [unity]: https://unity3d.com
 
@@ -14,6 +14,12 @@ Now, just:
 1. Open the project in Unity.
 2. Switch to Android platform in Build Settings.
 3. Build and Run The exemple scene!
+
+
+Tested in unity 2019.2 and android 9
+
+## How to use 
+ import the folder NativeAndroidElements in your unity project
 
 
 
@@ -73,5 +79,7 @@ Now, just:
 
 Let me know your thoughts and feedback [dhiaa.kahri@gmail.com](dhiaa.kahri@gmail.com)
 F eelfree to contribute and use this package as u want :)
+this package was made by dhia kahri 
 
 Thanks for [Suneet Agrawal] for his articles on medium about using native android in untiy
+g
